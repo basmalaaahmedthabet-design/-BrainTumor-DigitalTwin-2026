@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/🧠%20Brain%20Tumor-Digital%20Twin%202026-8B0000?style=for-the-badge&labelColor=1a1a2e" alt="Brain Tumor Digital Twin"/>
+<img src="https://img.shields.io/badge/%20Brain%20Tumor-Digital%20Twin%202026-8B0000?style=for-the-badge&labelColor=1a1a2e" alt="Brain Tumor Digital Twin"/>
 
 # Brain Tumor Digital Twin System 2026
 
@@ -18,15 +18,15 @@
 ---
 
 **Author:** Basmalaa Ahmed Thabet  
-**Department of Biomedical Engineering — Cairo University, Egypt**  
+**Department of Biomedical Engineering , Egypt**  
 **Computational Neuroscience Lab — Children's Cancer Hospital Egypt 57357**  
-📧 basmalaa.thabet@medicalai.edu
+Gmail: basmalaaahmedthabet@gmail.com
 
 ---
 
 </div>
 
-## 🌟 Overview
+##  Overview
 
 **Brain Tumor Digital Twin System 2026** is the world's **first clinically-validated, comprehensive digital twin platform** for precision neuro-oncology. It integrates six interconnected AI-powered modules into a single end-to-end clinical workflow — from MRI scan input to surgical AR navigation and cognitive outcome prediction.
 
@@ -36,7 +36,7 @@ Validated on **4,047 patients** across multiple international datasets and prosp
 
 ---
 
-## 🏆 Key Performance Results
+##  Key Performance Results
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Validated on **4,047 patients** across multiple international datasets and prosp
 
 ---
 
-## 🔬 System Architecture
+##  System Architecture
 
 The platform is organized into **six interconnected clinical AI modules**:
 
@@ -69,42 +69,42 @@ The platform is organized into **six interconnected clinical AI modules**:
 │                   © Basmalaa Ahmed Thabet                           │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
-│  📥 INPUT LAYER                                                     │
+│   INPUT LAYER                                                     │
 │  ├── Universal Format Support (NIfTI, DICOM, JPG, PNG, BMP, TIFF)  │
 │  ├── 4 MRI Modalities (T1, T1ce, T2, FLAIR)                        │
 │  └── Clinical Data (Genomics, Blood Biomarkers, Patient History)   │
 │                                                                     │
-│  🧠 MODULE 1: SEGMENTATION ENGINE                                   │
+│   MODULE 1: SEGMENTATION ENGINE                                   │
 │  └── Enhanced 3D Attention U-Net + Squeeze-&-Excitation Blocks     │
 │      • 98.7% Dice Coefficient  • Monte Carlo Uncertainty (T=100)   │
 │      • 1.8s Inference          • INT8 Quantization                 │
 │                                                                     │
-│  🎨 MODULE 2: MULTIMODAL SYNTHESIS (VAE-GAN)                       │
+│   MODULE 2: MULTIMODAL SYNTHESIS (VAE-GAN)                       │
 │  └── Hybrid VAE-GAN → CT, PET-FDG, fMRI, DTI, EEG, Tractography  │
 │      • From Single T1 MRI      • SSIM: 0.82–0.89                  │
 │      • 83% Cost Reduction      • 6 Modalities Synthesized          │
 │                                                                     │
-│  📈 MODULE 3: BIOPHYSICAL GROWTH MODELING                          │
+│   MODULE 3: BIOPHYSICAL GROWTH MODELING                          │
 │  └── Reaction-Diffusion PDE + DTI Anisotropy                       │
 │      • Patient-Specific ρ/D    • FEM Numerical Solver              │
 │      • 8.2% Volume Error       • Bayesian Parameter Inference      │
 │                                                                     │
-│  💊 MODULE 4: TREATMENT SIMULATION (PK/PD)                         │
+│   MODULE 4: TREATMENT SIMULATION (PK/PD)                         │
 │  └── Multi-Compartment Pharmacokinetic/Pharmacodynamic Models      │
 │      • Temozolomide/Bevacizumab/Nivolumab                          │
 │      • Mutation-Drug Matrix    • Toxicity Prediction               │
 │                                                                     │
-│  🧩 MODULE 5: COGNITIVE ASSESSMENT (GNN)                           │
+│   MODULE 5: COGNITIVE ASSESSMENT (GNN)                           │
 │  └── Graph Neural Networks — Whole-Brain Connectome Analysis       │
 │      • Alzheimer's vs Tumor Differentiation (89.1% Accuracy)       │
 │      • DMN Disruption          • Hippocampal Biomarkers            │
 │                                                                     │
-│  🥽 MODULE 6: AR SURGICAL NAVIGATION                               │
+│   MODULE 6: AR SURGICAL NAVIGATION                               │
 │  └── Microsoft HoloLens 2 + Finite Element Brain Shift             │
 │      • 1.2mm Registration      • Real-Time 5min Updates            │
 │      • 3D STL Export           • Trajectory Planning (A*, RRT*)    │
 │                                                                     │
-│  📊 OUTPUT LAYER                                                    │
+│   OUTPUT LAYER                                                    │
 │  ├── Clinical PDF Reports      • FHIR-Compliant JSON               │
 │  ├── 3D STL Surgical Models    • QR Mobile Access                  │
 │  └── Treatment Recommendations • Survival Stratification           │
@@ -117,14 +117,14 @@ The platform is organized into **six interconnected clinical AI modules**:
 
 | Document | Description | Link |
 |:---------|:------------|:-----|
-| 📰 **IEEE Paper** | Multimodal AI Framework — IEEE Format | [View Paper](paper/IEEE_Paper.html) |
-| 📋 **Abstract & Results** | Key findings, tables, and metrics | [View Abstract](paper/ABSTRACT.md) |
-| 🏗️ **System Architecture** | Detailed architecture documentation | [View Docs](docs/system_architecture.md) |
-| 📊 **Clinical Results** | Full performance tables | [View Results](docs/clinical_results.md) |
+|  **IEEE Paper** | Multimodal AI Framework — IEEE Format | [View Paper](paper/IEEE_Paper.html) |
+|  **Abstract & Results** | Key findings, tables, and metrics | [View Abstract](paper/ABSTRACT.md) |
+|  **System Architecture** | Detailed architecture documentation | [View Docs](docs/system_architecture.md) |
+|  **Clinical Results** | Full performance tables | [View Results](docs/clinical_results.md) |
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 BrainTumor-DigitalTwin-2026/
@@ -149,7 +149,7 @@ BrainTumor-DigitalTwin-2026/
 
 ---
 
-## 🚀 Demo Usage
+##  Demo Usage
 
 ```bash
 # Clone repository
@@ -167,7 +167,7 @@ python demo/demo_inference.py
 
 ---
 
-## 💰 Cost-Effectiveness & Global Impact
+##  Cost-Effectiveness & Global Impact
 
 ```
 Traditional Workflow          Digital Twin System 2026
@@ -184,7 +184,7 @@ $6,490 per patient      →     $1,088 per patient (83.2% reduction)
 
 ---
 
-## 🔬 Training Data & Validation
+##  Training Data & Validation
 
 | Dataset | Patients | Use |
 |:--------|:--------:|:----|
@@ -197,7 +197,7 @@ $6,490 per patient      →     $1,088 per patient (83.2% reduction)
 
 ---
 
-## 🧬 Supported Genomic Biomarkers
+##  Supported Genomic Biomarkers
 
 The treatment simulation module incorporates **mutation-specific drug response modeling** for:
 
@@ -210,28 +210,28 @@ The treatment simulation module incorporates **mutation-specific drug response m
 
 ---
 
-## 🏥 Clinical Validation — Real-World Impact (Egypt)
+##  Clinical Validation — Real-World Impact (Egypt)
 
 Prospective validation across **3 Egyptian hospital sites**:
 - Children's Cancer Hospital Egypt 57357
-- National Cancer Institute, Cairo University
+- National Cancer Institute
 - Cairo University Hospitals
 
 > *96.4% diagnostic concordance with specialist radiologists despite infrastructure constraints — demonstrating feasibility in resource-limited settings.*
 
 ---
 
-## ⚖️ Regulatory & Ethics
+##  Regulatory & Ethics
 
-- 🏛️ **FDA Classification:** Class II Software as a Medical Device (SaMD) — 510(k) submission planned Q4 2026
+-  **FDA Classification:** Class II Software as a Medical Device (SaMD) — 510(k) submission planned Q4 2026
 - 🇪🇺 **CE Marking:** Under EU MDR 2017/745 pathway
-- 🔒 **HIPAA Compliance:** AES-256 encryption, OAuth 2.0, RBAC (5 access levels)
-- 📋 **IRB Approval:** Cairo University Institutional Review Board
-- 🌐 **Clinical Trial:** NCT05847293 (ongoing multicenter RCT)
+-  **HIPAA Compliance:** AES-256 encryption, OAuth 2.0, RBAC (5 access levels)
+-  **IRB Approval:** Cairo University Institutional Review Board
+-  **Clinical Trial:** NCT05847293 (ongoing multicenter RCT)
 
 ---
 
-## 📚 How to Cite
+##  How to Cite
 
 If you use this work in your research, please cite:
 
@@ -253,10 +253,10 @@ If you use this work in your research, please cite:
 ## 🤝 Collaboration & Contact
 
 I welcome collaboration with:
-- 🏥 **Hospitals & Clinical Institutions** — for deployment and validation
-- 🎓 **Academic Research Groups** — for joint publications and data sharing
-- 💻 **AI/ML Engineers** — for system enhancement and optimization
-- 🌍 **Global Health Organizations** — for LMIC deployment
+-  **Hospitals & Clinical Institutions** — for deployment and validation
+-  **Academic Research Groups** — for joint publications and data sharing
+-  **AI/ML Engineers** — for system enhancement and optimization
+-  **Global Health Organizations** — for LMIC deployment
 
 **Contact:** basmalaa.thabet@medicalai.edu  
 **LinkedIn:** [linkedin.com/in/basmalaa-thabet](#)  
@@ -275,7 +275,7 @@ This system is intended for **research and educational purposes**. It has not ye
 <div align="center">
 
 **© 2026 Basmalaa Ahmed Thabet — All Rights Reserved**  
-*Cairo University × Children's Cancer Hospital Egypt 57357*  
+* Children's Cancer Hospital Egypt 57357*  
 *Licensed under CC BY-NC-SA 4.0 — Non-commercial use only*
 
 ⭐ *If this work has been valuable to you, please consider starring this repository.*
