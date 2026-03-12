@@ -1,21 +1,138 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 Copyright (c) 2026 Basmalaa Ahmed Thabet
+Department of Biomedical Engineering, Cairo University, Egypt
+Computational Neuroscience Lab, Children's Cancer Hospital Egypt 57357
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+=======================================================================
+                Creative Commons Legal Code
+     Attribution-NonCommercial-ShareAlike 4.0 International
+=======================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN
+ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+-----------------------------------------------------------------------
+
+Section 1 -- Definitions.
+
+"Licensed Material" means the Brain Tumor Digital Twin System 2026,
+including all source code, documentation, research papers, diagrams,
+datasets, model architectures, and any other creative works contained
+in this repository.
+
+"Licensor" means Basmalaa Ahmed Thabet, Cairo University.
+
+"NonCommercial" means not primarily intended for or directed towards
+commercial advantage or monetary compensation. For purposes of this
+License, the exchange of the Licensed Material for other material
+subject to Copyright and Similar Rights by digital file-sharing or
+similar means is NonCommercial provided there is no payment of
+monetary compensation in connection with the exchange.
+
+-----------------------------------------------------------------------
+
+Section 2 -- Scope.
+
+Subject to the terms and conditions of this License, the Licensor
+hereby grants You a worldwide, royalty-free, non-sublicensable,
+non-exclusive, irrevocable license to:
+
+  a. reproduce and Share the Licensed Material, in whole or in part,
+     for NonCommercial purposes only;
+
+  b. produce, reproduce, and Share Adapted Material for NonCommercial
+     purposes only.
+
+-----------------------------------------------------------------------
+
+Section 3 -- License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the
+following conditions:
+
+  a. ATTRIBUTION
+     - You must give appropriate credit to: Basmalaa Ahmed Thabet,
+       Cairo University, Dept. of Biomedical Engineering
+     - Provide a link to the license
+     - Indicate if changes were made
+     - You may not suggest the Licensor endorses you
+
+  b. NONCOMMERCIAL
+     You may not use the material for commercial purposes.
+     Commercial use requires explicit written permission from:
+     basmalaa.thabet@medicalai.edu
+
+  c. SHAREALIKE
+     If you remix, transform, or build upon the material, you must
+     distribute your contributions under the same license as the original.
+
+  d. NO ADDITIONAL RESTRICTIONS
+     You may not apply legal terms or technological measures that
+     legally restrict others from doing anything the license permits.
+
+-----------------------------------------------------------------------
+
+Section 4 -- Medical Disclaimer.
+
+THIS SOFTWARE IS PROVIDED FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY.
+
+IT HAS NOT RECEIVED FDA CLEARANCE OR CE MARKING FOR CLINICAL USE.
+
+ALL CLINICAL DECISIONS MUST BE MADE BY QUALIFIED MEDICAL PROFESSIONALS.
+
+THE AUTHOR AND CAIRO UNIVERSITY ACCEPT NO LIABILITY FOR:
+  - Clinical decisions made based on this system's output
+  - Use of this system prior to appropriate regulatory approval
+  - Any patient harm resulting from unauthorized clinical use
+
+-----------------------------------------------------------------------
+
+Section 5 -- Intellectual Property Notice.
+
+The following components are proprietary and NOT included in this
+public release. They remain exclusively owned by Basmalaa Ahmed Thabet:
+
+  1. Complete trained model weights achieving 98.7% Dice coefficient
+  2. Proprietary VAE-GAN biological consistency discriminator
+  3. Patient-specific ρ/D ratio inverse problem solver
+  4. Real-time AR holographic registration algorithm (0.8-1.2mm accuracy)
+  5. Complete clinical implementation code
+  6. Proprietary training datasets and pre-processing pipelines
+
+Unauthorized reproduction, reverse engineering, or commercial use of
+these components is strictly prohibited and may result in legal action.
+
+-----------------------------------------------------------------------
+
+Section 6 -- Contact for Permissions.
+
+For commercial licensing, clinical deployment partnerships, or
+full implementation access:
+
+  Author:      Basmalaa Ahmed Thabet
+  Institution: Cairo University, Dept. of Biomedical Engineering
+  Lab:         Computational Neuroscience Lab, CCHE 57357
+  Email:       basmalaa.thabet@medicalai.edu
+
+-----------------------------------------------------------------------
+
+THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND
+MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE
+LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER.
+
+TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO
+YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE)
+OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL,
+CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES,
+OR DAMAGES ARISING OUT OF THIS LICENSE OR USE OF THE LICENSED MATERIAL,
+EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES.
+
+=======================================================================
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
+=======================================================================
