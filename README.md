@@ -9,10 +9,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Harvard Conference](https://img.shields.io/badge/Harvard-Healthcare%20Scientific%20Conference%202026-A51C30?style=flat-square)](https://hms.harvard.edu/)
-[![Cairo University](https://img.shields.io/badge/Cairo%20University-Biomedical%20Engineering-003366?style=flat-square)](https://cu.edu.eg/)
-[![CCHE 57357](https://img.shields.io/badge/CCHE-57357%20Egypt-009900?style=flat-square)](https://www.57357.org/)
-[![DOI](https://img.shields.io/badge/DOI-10.xxxx%2Fzenodo.xxxxxxx-blue?style=flat-square)](https://zenodo.org)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18991170-blue?style=flat-square)](https://doi.org/10.5281/zenodo.18991170)
 [![Status](https://img.shields.io/badge/Status-Clinical%20Validation%20Complete-brightgreen?style=flat-square)]()
 
 ---
